@@ -1,0 +1,35 @@
+# home: "./scenarios/home/home.js"
+pageModule: "./scenarios/home/pageModule.js"
+home: "./scenarios/home/superApi.js"
+homeDistributed: "./scenarios/home/superApi.js"
+superApiProd: "./scenarios/home/superApiProd.js"
+promo: "./scenarios/utilities/promo/promoPage.js"
+member: "./scenarios/utilities/member/memberFE.js"
+
+flightSearch: "./scenarios/flight/integrator/airasia.js"
+airasia: "./scenarios/flight/integrator/airasia.js"
+amadeus: "./scenarios/flight/integrator/amadeus.js"
+citilink: "./scenarios/flight/integrator/citilink.js"
+expressair: "./scenarios/flight/integrator/expressair.js"
+garuda: "./scenarios/flight/integrator/garuda.js"
+lion: "./scenarios/flight/integrator/lion.js"
+sriwijaya: "./scenarios/flight/integrator/sriwijaya.js"
+trigana: "./scenarios/flight/integrator/trigana.js"
+
+payment: "./scenarios/payment/paymentListVA.js"
+tiket-live: "./scenarios/tiket-live/adminGenerateTickets.js"
+hotelHP: "./scenarios/hotel/homepage.js"
+
+# Recommendation BE - PFM-287
+recommendation: "./scenarios/utilities/recommendation/recommendation.js"
+
+# PFM-305
+memberSession: "./scenarios/utilities/member/session/session.js"
+
+paymentcore: "./scenarios/payment/paymentcore.js"
+
+paymentcore1: "./scenarios/payment/paymentcore1.js"
+
+paymentCoreGQL: "./scenarios/payment/paymentCoreGQL.js"
+
+promoGateway: "./scenarios/payment/promoGateway.js"
